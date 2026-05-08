@@ -9,12 +9,12 @@
 
    
 <details open>
-   <summary><b>✰ systemctl status life.service</b></summary>
+   <b>✰ systemctl status life.service</b>
   
    <br>
    
 <details open>
-  <summary><b>👤 Whoami</b></summary>
+  <b>👤 Whoami</b>
     <p>
       
 <blockquote>
@@ -36,7 +36,7 @@ When I’m not at the keyboard, I’m usually **troubleshooting hardware**, salv
   
 
 <details>
-  <summary><b>🛠️ Tech Stack</b></summary>
+<b>🛠️ Tech Stack</b>
     <p>
 
 | **Category** | **Technologies** |
@@ -50,10 +50,9 @@ When I’m not at the keyboard, I’m usually **troubleshooting hardware**, salv
 ----      
 
   </p>
-</details>
   
 
-  <summary><b>📊 Activity Monitor</b></summary>
+<b>📊 Activity Monitor</b>
     <p>
 
 <a href="https://github.com/sofonyas66">
