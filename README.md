@@ -20,15 +20,13 @@
       
 <blockquote>
 
-I am a **Student and Security Enthusiast** based in **Ethiopia**. I have a deep passion for ricing Linux environments (I use **Arch**, **Parrot**, and **Kali**) and building software with a distinct character.
+I am a **Student and Security Enthusiast** based in **Ethiopia**. I have a deep passion for ricing Linux environments (I use **Kali**) and building software with a distinct character.
 
 I focus heavily on **Cybersecurity and Network Administration**, specifically penetration testing and network monitoring. I enjoy the challenge of working with limited resources and optimizing systems for maximum performance.
 
 When I’m not at the keyboard, I’m usually **troubleshooting hardware**, salvaging electronic components, or repairing peripherals.
 
 <b>Current Projects:</b>
-* **NetGuardian**: A security-focused monitoring suite.
-* **Retro OS Portfolio**: A playable, desktop-themed portfolio built with Next.js and Three.js.
 
 </blockquote>
     
@@ -68,12 +66,10 @@ When I’m not at the keyboard, I’m usually **troubleshooting hardware**, salv
        
 
 </p>
-</details>
 
 <p align="center">
 <a href="https://github.com/sofonyas66" title="Snek 🐍"><img width="500" src="https://raw.githubusercontent.com/Lissy93/Lissy93/master/assets/github-snake.svg" /></a>
 </p>
 
-</details>
 
 <p align="center"><sub><sup>Generated with retro-vibes.service</sup></sub></p>
