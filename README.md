@@ -8,12 +8,12 @@
 </p>
 
    
-<details open>
+
    <b>✰ systemctl status life.service</b>
   
    <br>
    
-<details open>
+
   <b>👤 Whoami</b>
     <p>
       
@@ -32,10 +32,7 @@ When I’m not at the keyboard, I’m usually **troubleshooting hardware**, salv
 ----
   
   </p>
-</details>
-  
 
-<details>
 <b>🛠️ Tech Stack</b>
     <p>
 
