@@ -53,7 +53,6 @@ When I’m not at the keyboard, I’m usually **troubleshooting hardware**, salv
 </details>
   
 
-<details>
   <summary><b>📊 Activity Monitor</b></summary>
     <p>
 
