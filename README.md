@@ -16,7 +16,6 @@
 <details open>
   <summary><b>👤 Whoami</b></summary>
     <p>
-      <img align="right" width="250" src="https://i.pinimg.com/736x/b3/88/d5/b388d5f270f6bc295772503d49cc5f06.jpg" alt="Profile Visual" />
       
 <blockquote>
 
